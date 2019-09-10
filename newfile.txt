@@ -2,3 +2,5 @@ What is the difference between add, commit, and push?
 add: including untracked changes from currently working directory to staging area
 commit: bundling changes from staging area to be pushed to remote repository
 push: essentially copying committed changed files to a remote repository
+
+#This file is again updated on GitHub UI
